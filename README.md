@@ -1,4 +1,8 @@
-## Olá, eu sou Eric Natan
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&vCenter=true&random=false&width=524&lines=Olá!+Eu+sou+Eric+Natan!" alt="Typing SVG">
+  </a>
+</div>
     
 - 💻 Cursando graduação em Ciência da Computação
 - 😄 Pronomes: Ele/Dele

@@ -19,6 +19,7 @@
   <img align="center" alt="Eric-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Eric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eric-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Eric-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
   <img align="center" alt="Eric-Cmake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
 </div>
 

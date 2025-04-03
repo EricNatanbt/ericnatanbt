@@ -9,8 +9,8 @@
 
 <div> 
   <a href="https://github.com/Ericnatanbt">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ericnatanbt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnatanbt&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ericnatanbt&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericnatanbt&layout=compact&langs_count=16&theme=discord_old_blurple"/>
 </div>
 
 <div style="display: inline_block"><br>

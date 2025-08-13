@@ -1,6 +1,5 @@
 <div>
-  <h1 style="color: blue;>Olá! Sou Eric Natan</h1>
-  </a>
+  <h1 style="color: blue;">Olá! Sou Eric Natan</h1>
 </div>
     
 - 💻 Cursando graduação em Ciência da Computação

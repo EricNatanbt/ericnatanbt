@@ -4,6 +4,8 @@
     
 - 💻 Cursando graduação em Ciência da Computação
 - 😄 Pronomes: Ele/Dele
+- Sou desenvolvedor focado em **backend** e **sistemas embarcados**, e atualmente estou aprendendo **frontend** para me tornar Full Stack.
+
 
 <div> 
   <a href="https://github.com/Ericnatanbt">

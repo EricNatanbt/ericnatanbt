@@ -3,7 +3,7 @@
 </div>
     
 - 💻 Cursando graduação em Ciência da Computação
-- 🧑‍💻 Desenvolvedor  **Backend** e **Sistemas Embarcados**
+- 🧑‍💻 Desenvolvedor  **Web**, **Backend** e **Sistemas Embarcados**
 - 📖 Aprendendo **frontend** para me tornar Full Stack.
 - 😄 Pronomes: Ele/Dele
 
